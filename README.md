@@ -1,5 +1,5 @@
 # MarkdownGuideBookProject
-Integrantes: **D'Hipolito - Zuñiga - Aguirres**
+Integrantes: **Aguirres Quimey - D'Hipolito Bautista - Zuñiga Maximo**
 
 ## Comida
 
