@@ -31,5 +31,7 @@ Los tamales son masa de maíz rellena de carnes, chiles, frutas u otros ingredie
 - **Tamales de mole**: rellenos de carne y mole.
 - **Tamales dulces**: masa de maíz mezclada con frutas o dulce de leche.
 
+![](https://cdn.aarp.net/content/dam/aarp/food/recipes/2017/12/1140-tamales-stack-food-gods-esp.jpg "Tamales")
+
 ## 5. Chiles en Nogada
 Un platillo típico de Puebla, los chiles en nogada consisten en chiles poblanos rellenos de picadillo (mezcla de carne de res y cerdo, frutas y especias), cubiertos con una salsa de nuez (nogada) y decorados con granada y perejil, representando los colores de la bandera mexicana.
