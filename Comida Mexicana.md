@@ -15,6 +15,8 @@ El mole es una salsa espesa y rica, hecha con una mezcla compleja de chiles, esp
 - **Mole poblano**: originario de Puebla, conocido por su mezcla de sabores dulces y picantes.
 - **Mole negro**: típico de Oaxaca, caracterizado por su color oscuro y sabor profundo.
 
+![](https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/76245CFF-9CA1-49B7-844C-2776FAA5A1A0/Derivates/EB37A5A4-FBCB-45C7-B8A2-7E87667439A8.jpg "Mole")
+
 ## 3. Pozole
 El pozole es una sopa tradicional a base de maíz cacahuazintle (un tipo de maíz hominy), carne (generalmente cerdo), y se adereza con una variedad de ingredientes como lechuga, rábanos, cebolla, orégano, chile y limón. Hay tres tipos principales:
 - **Pozole rojo**: con chiles rojos.
