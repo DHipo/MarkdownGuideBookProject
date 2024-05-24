@@ -27,4 +27,6 @@ El juane es uno de los principales y más representativos platos típicos que ti
 ![l](https://cdn0.recetasgratis.net/es/posts/8/6/2/causa_limena_31268_600.webp)
 * **Anticucho**
 ![l](https://www.cocinista.es/download/bancorecursos/recetas/receta-anticuchos-peruanos.jpg)
+# Recetas de los diversos platos peruanos
+[En este link está el recetario de Gastón Acurio](https://es.slideshare.net/slideshow/bravazo-gaston-acuriopdf/254549152)
 
