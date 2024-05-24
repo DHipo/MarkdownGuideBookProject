@@ -8,6 +8,8 @@ Los tacos son el platillo más emblemático de México. Se trata de tortillas de
 - **Tacos de asada**: carne de res asada, usualmente acompañada con cebolla, cilantro y salsa.
 - **Tacos de carnitas**: carne de cerdo cocida en su propia grasa hasta que queda tierna y jugosa.
 
+![Tacos](https://backyardtaco.com/wp-content/uploads/2023/04/BackyardTaco_Are-Tacos-Mexican_Featured.jpg "Tacos")
+
 ## 2. Mole
 El mole es una salsa espesa y rica, hecha con una mezcla compleja de chiles, especias, chocolate y otros ingredientes. Los más famosos son:
 - **Mole poblano**: originario de Puebla, conocido por su mezcla de sabores dulces y picantes.
