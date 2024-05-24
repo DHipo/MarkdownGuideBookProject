@@ -35,3 +35,5 @@ Los tamales son masa de maíz rellena de carnes, chiles, frutas u otros ingredie
 
 ## 5. Chiles en Nogada
 Un platillo típico de Puebla, los chiles en nogada consisten en chiles poblanos rellenos de picadillo (mezcla de carne de res y cerdo, frutas y especias), cubiertos con una salsa de nuez (nogada) y decorados con granada y perejil, representando los colores de la bandera mexicana.
+
+![](https://www.aceitesdeolivadeespana.com/sites/default/files/recetas/chiles_en_nogada.jpeg "Chiles en Nogada")
