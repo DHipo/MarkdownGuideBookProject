@@ -23,6 +23,8 @@ El pozole es una sopa tradicional a base de maíz cacahuazintle (un tipo de maí
 - **Pozole verde**: con salsa de tomatillo y chiles verdes.
 - **Pozole blanco**: sin chiles, más sencillo pero igualmente delicioso.
 
+![](https://cdn.nutritionstudies.org/wp-content/uploads/2023/10/red-posole-with-mushroom-1024x683.jpg "Pozole")
+
 ## 4. Tamales
 Los tamales son masa de maíz rellena de carnes, chiles, frutas u otros ingredientes, envueltos en hojas de maíz o plátano y cocidos al vapor. Algunos tipos son:
 - **Tamales de rajas**: rellenos de tiras de chile poblano y queso.
