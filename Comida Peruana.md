@@ -20,5 +20,11 @@ La Pachamanca, es un plato con raíces culturales ancestrales de los andes del P
 El juane es uno de los principales y más representativos platos típicos que tiene nuestra selva peruana. Este platillo tiene su origen en Moyobamba en el departamento de San Martin. Con resepecto a su nombre hay dos teorías, una indica que la palabra “juane” proviene de “huane”, que derivó de “huanar”, que significa “amortiguado” o “cocinado a medias”. Otra teoría acerca de su origen habla sobre los misioneros católicos, quienes le habrían colocado este nombre en conmemoración a San Juan Bautista, patrono de la Amazonía peruana. Los ingredientes principales son el arroz, pollo o gallina y huevo. El pollo y el huevo en rodajas son complementados con el arroz y normalmente envueltos en hojas de bijao, cocidos como si de un tamal se tratara. Se comen bastante en las fiestas de San Juan, de allí es que viene su nombre. Existen en la actualidad varios tipos de juane, normalmente hechos a base de arroz, pero la receta original está hecho a base de yuca. El juane se cocinaba originalmente con yuca, pescado, huevos de aves silvestres y callampa (hongos comestibles). Con el paso de los años, se incorporaron productos europeos como carne de gallina, aceituna, arroz y varios condimentos que lo acercan a la versión que todos conocemos hoy en día.
 ![l](https://www.anderratravel.com/blog/imagenes/196.jpg)
 [Video de como se prepara el Juane](https://www.youtube.com/watch?v=o-j1dYqlZ2M)
-
+# Otros Platos Tipicos preferidos por el público:
+* **Lomo Saltado**
+![l](https://www.gourmet.cl/wp-content/uploads/2012/07/lomo-saltado-picante.jpg)
+* **Causa Limeña**
+![l](https://cdn0.recetasgratis.net/es/posts/8/6/2/causa_limena_31268_600.webp)
+* **Anticucho**
+![l](https://www.cocinista.es/download/bancorecursos/recetas/receta-anticuchos-peruanos.jpg)
 
