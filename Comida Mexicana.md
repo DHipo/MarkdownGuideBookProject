@@ -45,3 +45,5 @@ Aca se dejan varios links con recetas mexicanas, las cuales prodrias hacer, si q
 - [Receta de Tacos](https://www.pequerecetas.com/receta/receta-de-tacos-mexicanos-caseros/)
 - [Receta de Tamales](https://www.comedera.com/receta-tamales-mexicanos/)
 - [Receta de Pozole](https://www.paulinacocina.net/pozole-rojo/28500)
+- [Receta de Chiles en Nogada](https://www.comedera.com/receta-de-chiles-en-nogada/)
+- [Receta de Mole](https://www.comedera.com/receta-de-mole-mexicano/)
