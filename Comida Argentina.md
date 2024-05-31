@@ -19,15 +19,15 @@
 * Dulce de leche: un postre típico argentino hecho con leche condensada, azúcar y vainilla, que se puede encontrar en forma de galletas, pasteles o simplemente como un dulce para disfrutar.
 
 ## Asado
-![1](https://imgs.search.brave.com/BoiRZ0YTMx5km58kqGQFZ1R0HLVpg9Q-soD83lho3xw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzIyLzkwLzAw/LzM2MF9GXzIyMjkw/MDAwMl82OE5wM0tI/dlZXTndpUjlpNW9u/ZTVDWVJJSUdxcFRH/bS5qcGc)
-![4.](https://imgs.search.brave.com/hvYfgFO7Dq-iKHTO0bQLghk2gWCIH2-tJnr4l3TgNmI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAzLzk2LzY3LzYy/LzM2MF9GXzM5NjY3/NjIwMV9vakZwSjVN/TVI1UDZ2V01ZazdT/TWIwQ25XcU9Zejh1/ZC5qcGc)
+![1](./res/asado.webp)
+![4.](./res/asado_2.webp)
 
 ## Chorizo
-![This is an alt text.](https://imgs.search.brave.com/Qm9xmkqCWhMZ_e1pdFFsavzj1WtW2NNxBX_I0pSLl5Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTE4/NTUxOTA2Ny9waG90/by9ncmlsbGVkLWNo/b3Jpem8uanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPTFwcURC/WXg3eElObzE4cGFI/OGRQWVdzQUdwTWRh/ZzJEbUpEeUtIcVE0/OXM9 "This is a sample image.")
+![This is an alt text.](./res/chorizo.webp)
 ## Empanadas
-![2.](https://imgs.search.brave.com/vIHRQevROUp7aqJXrb4-vJkkyjfCv8aUdA_hq_Elp1Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9lMDAt/eGxrLWNvb2tpbmct/ZWxtdW5kby51ZWNk/bi5lcy9maWxlcy9p/bWFnZV80MTRfMjc2/L3VwbG9hZHMvMjAy/My8wMi8yOC82M2Zl/NjcxN2M4MWVmLmpw/ZWc)
+![2.](./res/empanadas.webp)
 ## Dulce de leche
-![3.](https://imgs.search.brave.com/zSRaXHI_m8CfoZNtWWg48yoxqigLkvtFRLU_OZQVM_k/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/Y3JvbmlzdGEuY29t/L2ZpbGVzL2ltYWdl/LzQ4Mi80ODIxODAv/NjM0NTZkNzM1YjRl/Y185NTBfNTM0IS5q/cGc_cz03NjM5ZmYy/ZGQ3NDAyNGU5ZmZj/ZTcyMzlkMTY0NjRh/MCZkPTE3MTE3OTMx/NzU)
+![3.](./res/dulce%20de%20leche.webp)
 
 # Cosas a tener en cuenta para cocinar en parrilla o en cocina
 
