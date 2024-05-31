@@ -19,15 +19,15 @@
 * Dulce de leche: un postre típico argentino hecho con leche condensada, azúcar y vainilla, que se puede encontrar en forma de galletas, pasteles o simplemente como un dulce para disfrutar.
 
 ## Asado
-![1](./imagenes%20Argentina/asado.webp)
-![4.](./imagenes%20Argentina/asado_2.webp)
+![1](./res/asado.webp)
+![4.](./res/asado_2.webp)
 
 ## Chorizo
-![This is an alt text.](./imagenes%20Argentina/chorizo.webp)
+![This is an alt text.](./res/chorizo.webp)
 ## Empanadas
-![2.](./imagenes%20Argentina/empanadas.webp)
+![2.](./res/empanadas.webp)
 ## Dulce de leche
-![3.](./imagenes%20Argentina/dulce%20de%20leche.webp)
+![3.](./res/dulce%20de%20leche.webp)
 
 # Cosas a tener en cuenta para cocinar en parrilla o en cocina
 
