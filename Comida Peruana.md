@@ -10,6 +10,7 @@ Si bien es cierto, es un plato que se prepara en muchos países del mundo, pero 
 Este plato tiene ingredientes como pescado, limón, ají, cebolla, cilantro, sal y pimienta. Todos estos ingredientes se mezclan en un recipiente y se dejan reposar durante unos 20 minutos hasta que estén listos para disfrutarlo.
 Si bien existen varias versiones sobre su origen, se dice que es un plato de la era precolombina, y que con la llegada de los españoles se le agregó el limón y la cebolla.
 ![l](./res/ceviche.jpg)
+[Ceviche es declarado patrimonio cultural Inmaterial de la Humanidad](https://blogs.usil.edu.pe/novedades/unesco-reconoce-al-ceviche-peruano-como-patrimonio-cultural-inmaterial-de-la-humanidad#:~:text=Unesco%20reconoce%20al%20ceviche%20peruano%20como%20Patrimonio%20Cultural%20Inmaterial%20de%20la%20Humanidad,-Noticias&text=En%202019%2C%20la%20USIL%20y,cebiche%20m%C3%A1s%20grande%20del%20mundo.)
 # Sierra
 * **Pachamanca**\
 La Pachamanca, es un plato con raíces culturales ancestrales de los andes del Perú; en el año 2003 fue declarado como Patrimonio Cultural de la Nación, por ser un plato que trasciende la historia peruana y poseer un exquisito sabor. Asimismo, este plato típico fue reconocido y mencionado en obras importantes por personajes ilustres del Perú como Ricardo Palma, en Argentina por Santiago Estrada, y otros países. A continuación, te invito a conocer más de este delicioso plato típico del Perú.
@@ -26,7 +27,7 @@ El juane es uno de los principales y más representativos platos típicos que ti
 * **Causa Limeña**
 ![l](./res/causa_limena_31268_600.webp)
 * **Anticucho**
-![l](./res/receta-anticuchos-peruanos.jpg)
+![l](./res/anticucho.jpg)
 # Recetas de los diversos platos peruanos
 [En este link está el recetario de Gastón Acurio](https://es.slideshare.net/slideshow/bravazo-gaston-acuriopdf/254549152)
 
